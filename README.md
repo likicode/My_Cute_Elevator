@@ -1,6 +1,8 @@
 # My_Cute_Elevator
 Operating System Project based on OpenFrameWorks
 
+https://github.com/likicode/My_Cute_Elevator/blob/master/ele.png
+![Alt text](https://github.com/likicode/My_Cute_Elevator/blob/master/ele.png "A view for the elevator")
 ### 项目需求
 - 基本任务：某一层楼 20 层，有五部互联的电梯。基于线程思想，编写一个电梯调度程序。
 - 功能描述：
